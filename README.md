@@ -38,9 +38,10 @@ In this project, RESTful APIs were successfully tested using Postman for both au
 
 ## Output windows
 
-
+# POST request
 <img width="915" height="774" alt="Image" src="https://github.com/user-attachments/assets/e0286291-101e-4566-9d1c-337913fccb0e" />
 
 
 
+# GET request
 <img width="936" height="872" alt="Image" src="https://github.com/user-attachments/assets/adf9e601-a672-44b7-8e2f-279f3032c073" />
