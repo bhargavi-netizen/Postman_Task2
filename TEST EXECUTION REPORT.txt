@@ -1,0 +1,47 @@
+TEST EXECUTION REPORT
+
+Company: CODTECH IT SOLUTIONS
+Intern Name: Kota Vijaya Bhargavi
+Intern ID: CTIS2146
+Task: API Testing with Postman (Task-2)
+
+Tool Used: Postman
+API Type: RESTful API
+
+--------------------------------
+Test Case 1: Authentication API
+--------------------------------
+Method: POST
+Endpoint: https://reqres.in/api/login
+
+Test Steps:
+1. Sent POST request with valid email and password
+2. Verified response token
+
+Expected Result:
+Authentication token should be generated
+
+Actual Result:
+Token received successfully
+
+Status:
+PASS
+
+--------------------------------
+Test Case 2: Data Retrieval API
+--------------------------------
+Method: GET
+Endpoint: https://reqres.in/api/users?page=2
+
+Test Steps:
+1. Sent GET request
+2. Verified user data in response
+
+Expected Result:
+User data should be retrieved
+
+Actual Result:
+User data retrieved successfully
+
+Status:
+PASS
