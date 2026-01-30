@@ -5,6 +5,19 @@
 API Testing with Postman
 
 
+"Company": CODETECH IT SOLITIONS"
+
+"Name": VIJAYA BHARGAVI KOTA
+
+"INTERN ID": CTIS2146
+
+"DOMAIN": SOFTWARE TESTING
+
+"DURATION": 4WEEKS
+
+"MENTOR": NEELA SANTHOSH
+
+
 ## Objective
 
 The objective of this project is to perform functional testing of RESTful APIs using Postman. Specifically, the project focuses on:
